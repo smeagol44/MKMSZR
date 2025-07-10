@@ -8,7 +8,7 @@ This is a mod that completely shuffles the item distribution in Mortal Kombat My
 In addition, the randomizer grants immediate access to all levels from the start, allowing for a non-linear playthrough. The experience requirements to complete the game have also been adjusted, making progression more flexible and suited to the randomized structure.
 
 
-Key Features:
+### Key Features:
 
 - Randomized placement of all in-game items
 - Full access to every level from the beginning
@@ -20,7 +20,7 @@ Key Features:
 The mod is provided AS-IS and in no way, shape and form I commit to maintain this and/or fix whatever bugs are found. You're welcome to report them, and/or fix them on your own, tho!
 
 
---
+---
 
 ### Instructions for playing
 
@@ -35,13 +35,13 @@ In order to play, you need the latest version of BizHawk emulator, and your own 
 
 If everything went as expected, the lua console output shouldn't display any errors, and should also display a few messages of the modules loaded.
 
---
+---
 
 ## Seeds
 
 In order to view current seed, you can do so on the lua console, and/or in the main menu going to Options > Seed. You can freely input any seed you want to play here too. 
 
---
+---
 
 ## Gameplay
 
@@ -59,6 +59,8 @@ In this screen you can also go to a different "page" of items by pressing the le
 - Empty spaces are filled with a dummy "-----" item now, and although selectable, they do nothing when used
 - Key items from other levels are displayed as "Key Item" instead of "Key" to prevent misuse
 - After using an item, the pagination is locked until the menu is closed and open again
+
+---
 
 There might be a few visual bugs here and there from time to time. So far, those have been proven to be minor, anyway.
 
