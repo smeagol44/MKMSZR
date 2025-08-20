@@ -17,7 +17,7 @@ In addition, the randomizer grants immediate access to all levels from the start
 - Seed viewing and input for replaying same runs
 
 
-The mod is provided AS-IS and in no way, shape and form I commit to maintain this and/or fix whatever bugs are found. You're welcome to report them, and/or fix them on your own, tho!
+The mod is provided AS-IS and in no way, shape or form I commit to maintain this and/or fix whatever bugs are found. You're welcome to report them, and/or fix them on your own, tho!
 
 
 ---
